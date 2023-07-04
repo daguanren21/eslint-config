@@ -1,7 +1,7 @@
 {
   "name": "@daguanren21/eslint-config",
   "version": "0.0.1",
-  "packageManager": "pnpm@7.30.0",
+  "packageManager": "pnpm@7.33.3",
   "description": "ESLint config for @daguanren21.",
   "type": "module",
   "license": "MIT",
@@ -38,31 +38,31 @@
     "eslint": "^8.0.0"
   },
   "dependencies": {
-    "@eslint/js": "^8.36.0",
-    "@typescript-eslint/eslint-plugin": "^5.56.0",
-    "@typescript-eslint/parser": "^5.56.0",
+    "@eslint/js": "^8.44.0",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-jsonc": "^2.7.0",
+    "eslint-plugin-jsonc": "^2.9.0",
     "eslint-plugin-markdown": "^3.0.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-unicorn": "^46.0.0",
-    "eslint-plugin-vue": "^9.9.0",
-    "eslint-plugin-yml": "^1.5.0",
+    "eslint-plugin-unicorn": "^46.0.1",
+    "eslint-plugin-vue": "^9.15.1",
+    "eslint-plugin-yml": "^1.8.0",
     "globals": "^13.20.0",
-    "jsonc-eslint-parser": "^2.2.0",
+    "jsonc-eslint-parser": "^2.3.0",
     "local-pkg": "^0.4.3",
-    "prettier": "^2.8.6",
-    "vue-eslint-parser": "^9.1.0",
-    "yaml-eslint-parser": "^1.2.0"
+    "prettier": "^2.8.8",
+    "vue-eslint-parser": "^9.3.1",
+    "yaml-eslint-parser": "^1.2.2"
   },
   "devDependencies": {
-    "@types/node": "^18.15.5",
-    "bumpp": "^9.0.0",
-    "eslint": "^8.36.0",
-    "eslint-define-config": "^1.17.0",
-    "typescript": "^5.0.2"
+    "@types/node": "^18.16.19",
+    "bumpp": "^9.1.1",
+    "eslint": "^8.44.0",
+    "eslint-define-config": "^1.21.0",
+    "typescript": "^5.1.6"
   },
   "engines": {
     "node": ">=14.18.0"
